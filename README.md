@@ -10,7 +10,6 @@
 ## Languages and Tools:
 <br/>
 
-
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -27,8 +26,9 @@
 ![image](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)
 <br/>
 
-
 ## My GitHub stats:
+<br/>
+
 [![Andreas Fagerbergs GitHub stats](https://github-readme-stats-iota-sage-60.vercel.app/api?username=Andreas-Fagerberg&theme=dracula&show_icons=true&show=prs_merged)](https://github.com/Andreas-Fagerberg/github-readme-stats) [![Top Langs](https://github-readme-stats-iota-sage-60.vercel.app/api/top-langs/?username=Andreas-Fagerberg&theme=dracula)](https://github.com/Andreas-Fagerberg/github-readme-stats)
 
 <!---
