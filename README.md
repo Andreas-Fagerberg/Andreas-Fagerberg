@@ -3,8 +3,8 @@
 - 👋 Hi, I’m @Andreas-Fagerberg
 - 🌱 I’m currently learning .Net-development
 - 📫 How to reach me: andreas.fagerberg.3@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Interests: Gaming, swimming, cooking and baking
 
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
