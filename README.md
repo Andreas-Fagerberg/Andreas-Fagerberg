@@ -8,7 +8,6 @@
 <br/>
 
 ## Languages and Tools:
-<br/>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -32,7 +31,6 @@
 <br/>
 
 ### Connect with me:
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreas-fagerberg-923677324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 ![image](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)
