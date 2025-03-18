@@ -4,7 +4,6 @@
 - 🎓 I’m currently studying .Net-development at Teknikhögskolan.
 - 📫 How to reach me: andreas.fagerberg.3@gmail.com
 - 😎 Interests: Gaming, swimming, cooking and programming.
-- 
 
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
