@@ -24,7 +24,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreas-fagerberg-923677324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 ![image](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats-iota-sage-60.vercel.app/api?username=Andreas-Fagerberg&theme=merko)](github-readme-stats-teal-nine-64.vercel.app)
+[![Anurag's GitHub stats](https://github-readme-stats-iota-sage-60.vercel.app/api?username=Andreas-Fagerberg&theme=tokyonight)](github-readme-stats-teal-nine-64.vercel.app)
 
 <!---
 Andreas-Fagerberg/Andreas-Fagerberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
