@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=76F7A2&background=FFFFFF00&multiline=true&repeat=false&width=435&height=60&lines=Hi%2C+I'm+Andreas.+;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ## About me:
-- 👋 Hi, I’m @AndreasFagerberg
 - 🎓 I’m currently studying .Net-development at Teknikhögskolan, Göteborg.
+- 😎 Some of my interests are: Gaming, swimming, cooking and programming.
+- 💖 I really enjoy problem solving and puzzles.
 - 📫 How to reach me: andreas.fagerberg.3@gmail.com
-- 😎 Interests: Gaming, swimming, cooking and programming.
 <br/>
 
 ## Languages and Tools:
