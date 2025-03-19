@@ -27,7 +27,7 @@
 ## My GitHub stats:
 <br/>
 
-[![Andreas Fagerbergs GitHub stats](https://github-readme-stats-iota-sage-60.vercel.app/api?username=Andreas-Fagerberg&theme=dracula&show_icons=true&show=prs_merged)](https://github.com/Andreas-Fagerberg/github-readme-stats) [![Top Langs](https://github-readme-stats-iota-sage-60.vercel.app/api/top-langs/?username=Andreas-Fagerberg)](https://github.com/Andreas-Fagerberg/github-readme-stats)
+[![Andreas Fagerbergs GitHub stats](https://github-readme-stats-iota-sage-60.vercel.app/api?username=Andreas-Fagerberg&theme=dracula&show_icons=true&show=prs_merged)](https://github.com/Andreas-Fagerberg/github-readme-stats) [![Top Langs](https://github-readme-stats-iota-sage-60.vercel.app/api/top-langs/?username=Andreas-Fagerberg&theme=dracula)](https://github.com/Andreas-Fagerberg/github-readme-stats)
 <br/>
 <br/>
 
