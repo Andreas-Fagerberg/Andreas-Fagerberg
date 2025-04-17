@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=76F7A2&background=FFFFFF00&multiline=true&repeat=false&width=435&height=60&lines=Hi%2C+I'm+Andreas+Fagerberg.+;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=76F7A2&background=FFFFFF00&multiline=true&repeat=false&width=435&height=60&lines=Hi%2C+I'm+Andreas,+;welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ## About me:
 - 🎓 I’m currently studying .Net-development at Teknikhögskolan, Göteborg.
